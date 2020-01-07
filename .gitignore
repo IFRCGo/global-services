@@ -2,11 +2,11 @@ notes.md
 _site
 .tmp
 .bundle
-bundle
-_config-dev.yml
+bundle 
 notes
 font-generator/icon-dist/*
 !font-generator/icon-dist/README.md
+app/humans.txt
 
 # OS generated files #
 ######################
