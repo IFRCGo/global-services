@@ -1,5 +1,5 @@
 source:       app
-baseurl:      "https://ifrcgo.github.io/global-services" 
+baseurl:      "/global-services" 
 
 markdown:   kramdown
 permalink:  pretty
@@ -10,8 +10,8 @@ exclude:
   - contributing
   
 default_locale:     "en"
-authorized_locales: ["en", "es"]
-locale_names:
+languages: ["en", "es"]
+language_names:
   en: "English"
   es: "Español"
 

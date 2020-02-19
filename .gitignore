@@ -6,6 +6,7 @@ bundle
 notes
 font-generator/icon-dist/*
 !font-generator/icon-dist/README.md
+app/.jekyll-cache
 
 # OS generated files #
 ######################

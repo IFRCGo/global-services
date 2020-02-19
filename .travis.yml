@@ -1,6 +1,6 @@
 language: ruby
-rvm:
-- 2.3.1
+# if the ruby version is not specified by the rvm key
+# Travis CI uses the .ruby-version file in the root of the repository
 env:
   global:
   - TRAVIS_NODE_VERSION="v12.14.0"

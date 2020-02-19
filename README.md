@@ -117,7 +117,7 @@ TODO
 
 ## Development environment
 
-- Suggested to install [Node Version Manager](https://github.com/nvm-sh/nvm). 
+- Suggested to install [Node Version Manager](https://github.com/nvm-sh/nvm) and [RVM](https://rvm.io/)
   - `nvm use`
 - `npm install` (will automatically run `bundle install` as well)
 - `npm install -g gulp`

@@ -49,7 +49,7 @@
               {{ page.lang | upcase }}
             </button>
             <div class="dropdown-menu" aria-labelledby="languagePicker">
-              {% for loc in site.authorized_locales %}
+              {% for loc in site.languages %}
                 {% if loc != page.lang %}  
                   {% if page.collection %}  
                     {% assign collection = site.collections | where: "label", page.collection | first %}
@@ -57,7 +57,7 @@
                   {% else %}
                     {% assign pg = site.pages | where:"lang",loc | where:"identifier",page.identifier | first %}
                   {% endif %}
-                  <a class="dropdown-item" href="{% render_depth %}{{pg.url | remove_first:'/' }}">{{ loc | upcase }}</a>
+                  <a class="dropdown-item" href="{% render_depth %}{{pg.url | remove_first:'/' }}">{{ site.language_names[loc] }}</a>
                 {% endif %}
               {% endfor %}
             </div>
