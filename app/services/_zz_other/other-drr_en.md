@@ -15,4 +15,4 @@ In recent years, there has been shift in the type of disasters that the RCRC Mov
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [role profile]({% link /assets/docs/other/role profile.pdf %}).
+Details about the expectations for this specialty can be found in the [Rapid Response Profile Disaster Risk Reduction and Climate Action Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile Disaster Risk Reduction and Climate Action Coordinator.pdf %}).
