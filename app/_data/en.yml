@@ -150,6 +150,8 @@ health:
       link: "Rapid Response Profile Medical Coordinator.pdf" 
     - name: "Public Health Coordinator"
       link: "Rapid Response Profile Public Health in Emergencies Coordinator.pdf"
+    - name: "Safe and Dignified Burials (SDB) Coordinator"
+      link: "Rapid Response Profile Safe and Dignified Burials Coordinator.pdf"   
     - name: "Staff Health Officer"
       link:  
     - name: "Mental Health and Psychosocial Support Coordinator"
