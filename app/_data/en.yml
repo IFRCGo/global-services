@@ -330,7 +330,9 @@ pmer:
 relief:
   title: "Relief"
   about: "Through the support of the National Societies, the Relief ERU have set up unit to ensures that essential relief goods are delivered to the appropriate beneficiaries rapidly, effectively and in a well coordinated and dignified manner. This ERU carries out tasks related to beneficiary targeting, registration, distribution of relief items and monitoring and evaluation. It also covers emergency operational shelter and, where appropriate, may initiate alternative relief support, such as voucher and cash distributions."
-  technical-framework:
+    technical-framework: 
+    - name: "Relief"
+      link: "201115 Relief (CVA and NFIs) competency framework_V7.pdf"
   role-profiles:
     - name: "Relief Coordinator"
       link:  
@@ -369,7 +371,7 @@ shelter:
     - name: "Shelter Programme Settlements Planning Officer"
       link:  
     - name: "Shelter Cluster Coordinator"
-      link:  
+      link: "Rapid Response Profile Shelter Cluster Coordinator.pdf"
     - name: "Shelter Cluster Deputy Coordinator"
       link:  
     - name: "Shelter Cluster Hub Coordinator"
