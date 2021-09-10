@@ -398,8 +398,11 @@ wash:
   role-profiles:
     - name: "WASH Coordinator"
       link: "Rapid Response Profile WASH Coordinator.pdf"
-    - name: "Hygiene Promotion Officer"
-      link: 
+    - name: "WASH Officer- Hygiene Promotion"
+      link: "Rapid Response Profile WASH Officer- Hygiene Promotion.pdf"
+     - name: "WASH Officer - Sanitation Engineer"
+      link: "Rapid Response Profile WASH Officer - Sanitation Engineer.pdf"
+      
   resources:
     - name: "Watsan Mission Assistant"
       description: "This is a website resource for field WASH practitioners."
